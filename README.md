@@ -1,16 +1,12 @@
 # Pokemon Battle Simulator in Unity (PBS)
 
-## Testing - 2020.12.28
+## Testing -
 - This branch is reserved for AWS integration testing
 
-## Update - 2020.11.20
-Came back to this project for some small updates and to more formally open-source it.
 - Integrated the [Mirror Package](https://github.com/vis2k/Mirror) to enable PvP functionality.
 - Created a ZenHub Board for this project to better organize issues and epics. To see it, just install the [ZenHub browser extension](https://www.zenhub.com/extension), and you should see the "ZenHub" tab listed beside "Pull Requests".
 - Code cleanup and asset folder reorganization. This will be an ongoing project, with issues going under [this epic](https://github.com/AJ2O/pbs-unity/issues/11)
 
-## Overview
-This was a short project I worked on and off for about 4 months, and it simulates the Pokemon battling system for the 8th generation. The focus of the project was solely the battle system, so there is no overworld or exploration component. Furthermore, most of the present game data such as Pokemon, items, moves, abilities, etc. are placeholders used to test the wide range of mechanics. The underlying system is in place for users to add their own game data to the project.
 
 ## Screenshots
 <table>
